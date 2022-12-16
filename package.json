@@ -1,0 +1,23 @@
+{
+  "name": "weekender-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbyluce/weekender-be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbyluce/weekender-be/issues"
+  },
+  "homepage": "https://github.com/abbyluce/weekender-be#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
